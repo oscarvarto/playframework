@@ -1,0 +1,9 @@
+Home:Inicio
+LatestRelease:Última versión
+gettingStarted:Primeros pasos
+working:Trabajando con Play
+hacking:Contribuyendo a Play
+experimental:Librerías experimentales
+about:Acerca de Play
+releases:Versiones de Play
+ModuleDirectory:Directorio de módulos

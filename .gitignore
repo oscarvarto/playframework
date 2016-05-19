@@ -16,3 +16,6 @@ generated.truststore
 .settings
 .cache-main
 .cache-tests
+
+# Not yet translated documents
+*.notyet
